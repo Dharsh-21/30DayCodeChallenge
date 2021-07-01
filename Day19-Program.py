@@ -1,3 +1,7 @@
+#Day19
+#1.	Create an Excel with data of Student database and add all the 
+# values which is required for student management database, 
+# Read the excel file and add the datas into a DB 
 from openpyxl import Workbook
 
 workbook = Workbook()
